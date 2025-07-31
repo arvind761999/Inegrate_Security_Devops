@@ -7,3 +7,5 @@ python_app
 Token
 github-actions-token:
 squ_40058ba4bcca009e031b3029f200297053733439
+
+sonarqube15
